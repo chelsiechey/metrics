@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  metric: one
+  date: 2020-08-12
+  total: 1
+  units: MyString
+  note: MyText
+
+two:
+  user: two
+  metric: two
+  date: 2020-08-12
+  total: 1
+  units: MyString
+  note: MyText
